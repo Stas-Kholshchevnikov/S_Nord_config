@@ -1,5 +1,7 @@
 # S_Nord_config
-# Программа для конфигурования настроек приборов S.Nord
+# Программа для конфигурования настроек охранных приборов S.Nord 
+
+***Программа позволяет, используя облачные сервисы производителя, проводить конфигурирование параметров не доступ по умолчанию***
 
 Для запуска используйте файл ***S_Nord.py***
 
@@ -16,4 +18,6 @@
 **/reports/excel_reports** (каталог для хранения полных отчетов о конфигурациях приборов)
 
 # Стек
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/PyQT5-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Requests-white?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Openpyxl-white?style=for-the-badge&logo=python&logoColor=blue"/>
+
 
